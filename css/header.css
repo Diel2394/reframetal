@@ -1,0 +1,8 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+button i {
+  background: none;
+  border: none;
+}
